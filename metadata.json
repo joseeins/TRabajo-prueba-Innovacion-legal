@@ -1,0 +1,6 @@
+{
+  "name": "IurisFile - Expediente Digital",
+  "description": "Sistema jurídico para registro, validación y centralización de expedientes digitales legales para abogados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
